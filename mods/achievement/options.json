@@ -1,0 +1,78 @@
+{
+	"author": "Valgrifer",
+	
+	"author_contact": "@valgrifer",
+	
+	"name": "Achievement UI",
+	
+	"description": "Achievement with Material UI style.",
+	
+	"color_options": [
+		{
+			"id": "achievement_bg",
+			"name": "Achievement Background",
+			"default": {
+				"r": 255,
+				"g": 255,
+				"b": 255
+			}
+		},
+		{
+			"id": "achievement_star",
+			"name": "Achievement Star",
+			"default": {
+				"r": 229,
+				"g": 193,
+				"b": 107
+			}
+		},
+		{
+			"id": "achievement_rank_s",
+			"name": "Achievement Background Rank S",
+			"default": {
+				"r": 132,
+				"g": 53,
+				"b": 58
+			}
+		},
+		{
+			"id": "achievement_rank_a",
+			"name": "Achievement Background Rank A",
+			"default": {
+				"r": 66,
+				"g": 73,
+				"b": 115
+			}
+		},
+		{
+			"id": "achievement_rank_b",
+			"name": "Achievement Background Rank B",
+			"default": {
+				"r": 140,
+				"g": 97,
+				"b": 66
+			}
+		},
+		{
+			"id": "achievement_rank_c",
+			"name": "Achievement Background Rank C",
+			"default": {
+				"r": 49,
+				"g": 45,
+				"b": 49
+			}
+		}
+	],
+	
+	"penumbra": [
+		{
+			"name": "Main Command Icons",
+			"options": {
+				"Material UI Style": [
+					"ui/uld/achievementrank",
+				],
+				"Vanilla": [],
+			}
+		}
+	]
+}
